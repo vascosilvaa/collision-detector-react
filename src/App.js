@@ -2,7 +2,6 @@ import React, { useRef, useEffect, createRef, useState } from "react";
 import Player from "./player";
 import Circle from "./circle";
 import Box from "./box";
-import circle from "./circle";
 
 const style = {
   bannerBox: {
